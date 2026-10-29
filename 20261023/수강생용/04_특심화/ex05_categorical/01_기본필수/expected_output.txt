@@ -1,0 +1,28 @@
+{
+  "mode": [
+    "qa"
+  ],
+  "categories": [
+    "qa",
+    "research"
+  ],
+  "valid_filled": [
+    "qa",
+    "qa",
+    "summary"
+  ],
+  "valid_encoded": [
+    [
+      1.0,
+      0.0
+    ],
+    [
+      1.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ]
+}

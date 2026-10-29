@@ -1,0 +1,25 @@
+{
+  "normalized": {
+    "task_type": [
+      "qa",
+      "translation",
+      null,
+      null
+    ],
+    "priority": [
+      "normal",
+      "urgent",
+      null,
+      null
+    ]
+  },
+  "unknown_counts": {
+    "task_type": 1,
+    "priority": 1
+  },
+  "output_shape": [
+    4,
+    6
+  ],
+  "all_missing_detected": true
+}

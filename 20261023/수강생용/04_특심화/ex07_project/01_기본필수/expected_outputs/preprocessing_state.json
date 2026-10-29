@@ -1,0 +1,41 @@
+{
+  "numeric_medians": [
+    1315.0,
+    3.0
+  ],
+  "scaler_mean": [
+    1195.85,
+    2.85
+  ],
+  "scaler_scale": [
+    567.0412044111081,
+    1.4699773240881417
+  ],
+  "scaler_seen": 60,
+  "categorical_modes": [
+    "research",
+    "low"
+  ],
+  "categories": [
+    [
+      "qa",
+      "research",
+      "summary"
+    ],
+    [
+      "high",
+      "low",
+      "normal"
+    ]
+  ],
+  "feature_names": [
+    "num__input_chars",
+    "num__allowed_tools",
+    "cat__task_type_qa",
+    "cat__task_type_research",
+    "cat__task_type_summary",
+    "cat__priority_high",
+    "cat__priority_low",
+    "cat__priority_normal"
+  ]
+}

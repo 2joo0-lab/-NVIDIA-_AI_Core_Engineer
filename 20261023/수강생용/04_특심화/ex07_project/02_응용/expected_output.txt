@@ -1,0 +1,33 @@
+{
+  "split_sizes": {
+    "train": 60,
+    "valid": 20,
+    "test": 20
+  },
+  "train_shape": [
+    60,
+    8
+  ],
+  "valid_shape": [
+    20,
+    8
+  ],
+  "numeric_medians": [
+    1315.0,
+    3.0
+  ],
+  "validation": {
+    "correct": 14,
+    "total": 20,
+    "accuracy": 0.7,
+    "found_failed": 0,
+    "total_failed": 6
+  },
+  "new_predictions": [
+    0,
+    0
+  ],
+  "state_unchanged": true,
+  "restored_equal": true,
+  "test_model_calls": 0
+}

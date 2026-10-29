@@ -1,0 +1,49 @@
+{
+  "train_shape": [
+    60,
+    6
+  ],
+  "valid_shape": [
+    20,
+    6
+  ],
+  "modes": [
+    "research",
+    "low"
+  ],
+  "categories": [
+    [
+      "qa",
+      "research",
+      "summary"
+    ],
+    [
+      "high",
+      "low",
+      "normal"
+    ]
+  ],
+  "new_ready": [
+    [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  ],
+  "new_shape": [
+    2,
+    6
+  ],
+  "categories_unchanged": true
+}
